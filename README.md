@@ -35,4 +35,9 @@ I am an Electronics and Telecommunication Engineer interested in Embedded System
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/riteshghadekar
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshghadekar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshghadekar&layout=compact&theme=tokyonight)
 
