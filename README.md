@@ -12,6 +12,13 @@ I am an Electronics and Telecommunication Engineer interested in Embedded System
 - **Communication Protocols:** UART, SPI, I2C, CAN
 - **Simulation:** Proteus, Tinkercad
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-blue?style=for-the-badge&logo=mathworks&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 ### 🚀 Projects
 
 - Footsteps Electricity Generation System
